@@ -142,4 +142,8 @@ def run_simulation_dqn_phases(steps=3600, epsilon_start=1.0, epsilon_end=0.05, e
     traci.close()
 
 if __name__ == "__main__":
+<<<<<<< HEAD
     run_simulation_dqn_phases()
+=======
+    run_simulation_dqn_phases()
+>>>>>>> 945ca66ec46b3da47044999710c3a18b1656abfe
