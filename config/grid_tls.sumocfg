@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<configuration>
+    <input>
+        <net-file value="network/grid_tls.net.xml"/>
+        <route-files value="routes/trips.rou.xml"/>
+        <additional-files value="network/grid_tls.add.xml"/>
+    </input>
+
+    <time>
+        <begin value="0"/>
+        <end value="3600"/>
+        <step-length value="1"/>
+    </time>
+</configuration>
